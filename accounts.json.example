@@ -1,0 +1,18 @@
+{
+    "accounts": [
+        {
+            "name": "personal",
+            "type": "github",
+            "username": "octocat",
+            "token": "ghp_your_personal_access_token_here",
+            "baseUrl": "https://api.github.com"
+        },
+        {
+            "name": "work",
+            "type": "github",
+            "username": "octocat-work",
+            "token": "ghp_your_work_token_here",
+            "baseUrl": "https://api.github.com"
+        }
+    ]
+}
